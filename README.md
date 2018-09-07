@@ -1,4 +1,4 @@
-# zaw-src-unity-bitbucket
+# zaw-src-bitbucket
 
 Optional sources of [zaw](https://github.com/zsh-users/zaw) for Bitbucket:
 
